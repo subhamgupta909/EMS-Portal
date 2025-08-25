@@ -1,5 +1,6 @@
 Employee Management System is a full-stack web application built with Spring MVC, Hibernate, and Spring Security.
 It helps organisations manage employees, projects, and clients with role-based access control and real-time notifications using Apache Kafka.
+
 Features
 🔑 Role-Based Authentication (Spring Security)
 Admin, Employee, and Client roles
@@ -9,8 +10,8 @@ Secure login & authorisation
 Add, update, and delete employees
 Dynamic search (by ID, name, email, department, date range)
 
-🏢 Client & Project Management
-Manage clients and assign employees to projects
+🏢 Client & Project Management-
+Manage clients and assign employees to projects,
 Track project assignments
 
 📡 Apache Kafka Integration
