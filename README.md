@@ -33,15 +33,23 @@ A project is assigned to an employee
 View and manage all employees, clients, and projects from one place
 
 Tech Stack
+
 Backend: Spring MVC, Hibernate, Spring Security, Apache Kafka
+
 Frontend: JSP, HTML, CSS, Bootstrap
+
 Database: MySQL
+
 Messaging: Apache Kafka
+
 Email Service: JavaMail (SMTP with TLS/SSL)
+
 Server: Apache Tomcat
 
 Setup Instructions
+
 Prerequisites
+
 JDK 11+
 Maven 3.x
 Apache Tomcat 9+
